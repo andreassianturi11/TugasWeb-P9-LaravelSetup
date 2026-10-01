@@ -245,6 +245,14 @@ Ubah sementara isi array `courses` pada `PageController.php`, simpan, lalu refre
 
 Pastikan database `laravel_p9` tersedia di phpMyAdmin dan migration berhasil dijalankan tanpa error.
 
+## Screenshot
+
+### Halaman Home / Welcome Page
+
+Screenshot halaman Home saat Laravel dijalankan menggunakan `php artisan serve`.
+
+![Screenshot Home](screenshots/home.png)
+
 ## Catatan Keamanan
 
 File `.env` berisi konfigurasi lokal dan tidak boleh di-commit ke repository GitHub.
