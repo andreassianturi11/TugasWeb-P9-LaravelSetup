@@ -49,7 +49,7 @@ Pastikan sudah tersedia:
 ### 2. Clone Repository
 
 ```bash
-git clone <URL-REPOSITORY-GITHUB>
+git clone https://github.com/andreassianturi11/TugasWeb-P9-LaravelSetup.git
 cd TugasWeb-P9-LaravelSetup
 ```
 
